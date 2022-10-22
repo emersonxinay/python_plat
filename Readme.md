@@ -15,3 +15,8 @@ mypy archivo.py --check-untyped-defs
 ```bash
 python3 nombre_archivo.py
 ```
+
+### para trabajar con zonas horarios, recuerda primero levantar el servidor virtual 
+```bash 
+pip install pytz
+```
